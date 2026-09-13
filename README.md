@@ -32,6 +32,7 @@ A área de Pricing precisa decidir, produto a produto, onde reajustar preço sem
 3. **Banda de Preço Competitivo por Categoria** — faixa mínima e máxima praticada pela concorrência nas 8 categorias do catálogo.
 4. **Simulação de Impacto Financeiro** — projeção de receita para os produtos com oportunidade de reajuste.
 5. **Dashboard no Looker Studio** — KPIs executivos, gráfico de dispersão por quadrante (colorido por categoria de decisão), ranking de ganho estimado por produto e tabela de recomendação final com formatação condicional.
+
 ![Análise 1](img/1.png)
 
 ## 5. Insights
